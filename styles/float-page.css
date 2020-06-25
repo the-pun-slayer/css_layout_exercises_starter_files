@@ -10,3 +10,18 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+#img1{
+  float: right;
+  height: 250px;
+  width: 250px;
+  margin: 10px 10px 0px 10px;
+  
+}
+
+#img2{
+  float: left;
+  height: 250px;
+  width: 250px;
+  margin: 10px 10px 10px 0px;
+}
